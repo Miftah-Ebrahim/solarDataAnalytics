@@ -1,4 +1,4 @@
-# ☀️ Solar Challenge Dashboard
+# ☀️ Solar Data Analytics
 
 <div align="center">
 
